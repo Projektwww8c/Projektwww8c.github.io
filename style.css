@@ -1,4 +1,5 @@
 body
 {
 background-image: url(space.jpg);
+  selektor { background-size: contain}
 }
